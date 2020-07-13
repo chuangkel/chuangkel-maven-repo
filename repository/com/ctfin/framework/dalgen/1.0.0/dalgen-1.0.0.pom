@@ -15,8 +15,8 @@
 
     <distributionManagement>
         <repository>
-            <id>chuangkel-maven-repo</id>
-            <url>file:F:\chuangkel\github-maven-repository\repository</url>
+            <id>maven-repo</id>
+            <url>file:F:\chuangkel\maven-repo\repository</url>
         </repository>
     </distributionManagement>
 
